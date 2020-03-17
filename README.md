@@ -1,0 +1,2 @@
+# HAD
+Hearthstone Archive Database
